@@ -31,7 +31,7 @@ const BannerContent = styled(Div)`
 
 const ShopButton = styled.button`
   background: transparent;
-  border: 1px solid white;
+  border: 2px solid white;
   padding: 1rem 2rem;
   cursor: pointer;
 

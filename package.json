@@ -7,6 +7,7 @@
     "npm": "6.14.x"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -23,6 +24,23 @@
     "react-redux": "^7.2.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
+=======
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "@testing-library/user-event": "^14.5.1",
+    "axios": "^1.6.2",
+    "classnames": "^2.3.2",
+    "connected-react-router": "^6.9.3",
+    "formik": "^2.4.5",
+    "framer-motion": "^10.16.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-notifications": "^1.7.4",
+    "react-number-format": "^5.3.1",
+    "react-redux": "^9.0.4",
+    "react-router": "^6.20.1",
+    "react-router-dom": "^6.20.1",
+>>>>>>> a242dcc (test1)
     "react-router-redux": "^5.0.0-alpha.9",
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
